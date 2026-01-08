@@ -144,9 +144,6 @@ This project proudly secured **🥇 First Place** in an **Interdepartment Techni
 
 Developed as a **team project (3 members)** during **Semester 6 – Year 3**.
 
-### 👤 Project Lead / Developer
-- **You** – Full-Stack Development, AI Integration, Architecture Design
-
 ### 🤝 Team
 
 - **Pavish K**  
