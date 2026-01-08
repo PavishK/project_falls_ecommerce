@@ -147,7 +147,11 @@ Developed as a **team project (3 members)** during **Semester 6 – Year 3**.
 ### 👤 Project Lead / Developer
 - **You** – Full-Stack Development, AI Integration, Architecture Design
 
-### 🤝 Collaborators
+### 🤝 Team
+
+- **Pavish K**  
+  🔗 https://github.com/PavishK
+  
 - **Gowtham**  
   🔗 https://github.com/Gowtham101202004
 
