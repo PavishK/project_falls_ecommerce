@@ -135,7 +135,7 @@ This project proudly secured **🥇 First Place** in an **Interdepartment Techni
 ### Enter OTP
 <img width="1919" height="974" alt="OTP" src="https://github.com/user-attachments/assets/027454f5-9894-4099-b3c9-db0a58593f43" />
 
-### Register – Email & Password
+### Register – Name, Email & Password
 <img width="1906" height="958" alt="Register" src="https://github.com/user-attachments/assets/aba93e6c-3600-4099-a1ef-2549fd34c3ad" />
 
 ---
